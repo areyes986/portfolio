@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Collection of my Projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areyes986/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Allyson Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areyes986/portfolio/issues"
+  },
+  "homepage": "https://github.com/areyes986/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "pg": "^7.18.1"
+  }
+}
