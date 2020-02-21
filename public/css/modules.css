@@ -1,0 +1,42 @@
+/* //////////////////// header ///////////////////// */
+
+.headerText {
+    color: ivory;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.intro > a {
+    text-decoration: none;
+}
+
+.intro > a > img {
+    background-color: ivory;
+    border-radius: 50%;
+}
+
+.intro #photo {
+    border-radius: 50%;
+    border: ivory 3px solid;
+}
+
+/* ///////////////// main /////////////////// */
+
+main section h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+/* ///////////////// footer /////////////////// */
+
+footer section {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: ivory;
+
+}
+
+
